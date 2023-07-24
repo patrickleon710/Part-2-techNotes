@@ -1,7 +1,5 @@
 const allowedOringins = [
-    'http://localhost:5173',
-    'https://www.dandrepairshop.com',
-    'https://dandrepairshop.com'
+    'https://technotes.onrender.com'
 ]
 
 module.exports = allowedOringins
